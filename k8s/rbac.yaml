@@ -33,3 +33,4 @@ roleRef:
   name: nizar-sample-app-role
   apiGroup: rbac.authorization.k8s.io
 
+

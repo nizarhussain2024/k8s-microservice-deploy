@@ -369,3 +369,12 @@ kubectl delete -f k8s/deployment.yaml
 - [ ] Security policies (Pod Security Standards)
 - [ ] Resource quotas
 - [ ] Network policies
+
+## AI/NLP Capabilities
+
+This project includes AI and NLP utilities for:
+- Text processing and tokenization
+- Similarity calculation
+- Natural language understanding
+
+*Last updated: 2025-12-20*
